@@ -7,3 +7,6 @@ Commands learned:
 - mkdir : create directory
 - rm  : delete files/folders
 - nano : text editor
+Why Linux matters:
+Linux runs most servers in the cloud.
+Understanding it helps me debug, automate, and deploy systems.
